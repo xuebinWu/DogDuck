@@ -1,0 +1,23 @@
+<!--miniprogram/pages/myPage/cow/cow.wxml-->
+<view>
+<text>miniprogram/pages/myPage/cow/cow.wxml</text>
+<!-- bottom button -->
+  <view class="bottom-button">
+    <navigator url="../../index/index" open-type="redirect" class="uploader-text">
+      <image class="btn-png" src="../../../images/btn-dog.png" mode="aspectFit"/>
+      <text>dog</text>
+    </navigator>
+  </view>
+  <view class="bottom-button cat-button">
+    <navigator url="../cat/cat" open-type="redirect" class="uploader-text">
+      <image class="btn-png" src="../../../images/btn-cat.png" mode="aspectFit"/>
+      <text>cat</text>
+    </navigator>
+  </view>
+  <view class="bottom-button cow-button">
+    <navigator url="../cow/cow" open-type="redirect" class="uploader-text">
+      <image class="btn-png" src="../../../images/btn-cow.png" mode="aspectFit"/>
+      <text>cow</text>
+    </navigator>
+  </view>
+</view>

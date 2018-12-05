@@ -1,9 +1,9 @@
 <!--miniprogram/pages/myPage/demo.wxml-->
-<text>miniprogram/pages/myPage/demo.wxml</text>
+<!-- <text>miniprogram/pages/myPage/demo.wxml</text> -->
 
 <!-- progress -->
-<progress percent="20" show-info />
-<progress percent="60" color="pink" />
+<!-- <progress percent="20" show-info />
+<progress percent="60" color="pink" /> -->
 
 <!-- icon -->
 <view class="group">
